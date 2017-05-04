@@ -1,0 +1,13 @@
+[
+    {neve: "Arusha", szarmazasiOrszag: "Tanzania", erosseg: 4, fogyAr: 200, beszAr:8500, keszlet: 16},
+    {neve: "Java", szarmazasiOrszag: "Indonesia", erosseg: 3, fogyAr: 350, beszAr:9200, keszlet: 2},
+    {neve: "Colombian", szarmazasiOrszag: "Colombia", erosseg: 2, fogyAr: 410, beszAr:9900, keszlet: 8},
+    {neve: "K7", szarmazasiOrszag: "Africa", erosseg: 10, fogyAr: 260, beszAr:8700, keszlet: 12},
+    {neve: "Arabusta", szarmazasiOrszag: "Indonesia", erosseg: 8, fogyAr: 300, beszAr:8900, keszlet: 23},
+    {neve: "Blue Mountain", szarmazasiOrszag: "Jamaica", erosseg: 6, fogyAr: 490, beszAr:10500, keszlet: 1},
+    {neve: "Kona", szarmazasiOrszag: "Hawaii", erosseg: 1, fogyAr: 260, beszAr:8800, keszlet: 5},
+    {neve: "Caturra", szarmazasiOrszag: "Latin and Central America", erosseg: 7, ar: 320, beszAr:9000, keszlet: 9},
+    {neve: "Bourbon", szarmazasiOrszag: "Latin America", erosseg: 5, fogyAr: 410, beszAr:10100, keszlet: 2},
+    {neve: "Talamon", szarmazasiOrszag: "Latin America", erosseg: 6, fogyAr: 380, beszAr:9700, keszlet: 4},
+    {neve: "Sauron", szarmazasiOrszag: "Colombia", erosseg: 10, fogyAr: 330, beszAr:9300, keszlet: 1},
+    {neve: "Ilidan", szarmazasiOrszag: "Tanzania", erosseg: 4, fogyAr: 350, beszAr:9600, keszlet: 7}]
